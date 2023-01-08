@@ -1,0 +1,123 @@
+.LoginPageBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #f9EFD7;
+    margin:0px;
+}
+
+.LoginPageCard{
+    text-align: center;
+    display: inline-block;
+    border: 2px solid black;
+    width: 300px;
+    height: 450px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 3px 3px 0px #000;
+}
+
+.LoginPageCard h1{
+    position: relative;
+    top: 20px;
+    font-size: 20px;
+}
+
+.LoginPageCard h2{
+    position: relative;
+    top: 30px;
+    margin: auto;
+    width: 250px;
+    font-size: 18px;
+}
+
+.LoginPageCard h3{
+    position: relative;
+    top: 180px;
+    margin: auto;
+    width: 250px;
+    font-size: 18px;
+}
+.emailinput{
+    width: 240px;
+    margin: auto;
+    font-size: 7px;
+    color: lightgray;
+    position: relative;
+    top:20px;
+}
+.emailinput input{
+    border: none;
+    background:lightgray;
+    border-radius: 10px;
+    width: 240px;
+    height: 35px;
+
+}
+.requestOTPbtn{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    font-size: 16px;
+    height: 40px;
+    width: 160px;
+    position: relative;
+    top:70px;
+    background:#8C52FF;
+    border-radius: 8px;
+    color: white;
+    box-shadow: 2px 2px 3px #000;
+}
+.requestOTPbtn:hover{
+    cursor: pointer;
+}
+
+
+#partitioned {
+  padding-left: 15px;
+  margin: auto;
+  letter-spacing: 40px;
+  border: 0;
+  background-image: linear-gradient(to left, black 70%, rgba(255, 255, 255, 0) 0%);
+  background-position: bottom;
+  background-size: 50px 2px;
+  background-repeat: repeat-x;
+  background-position-x: 35px;
+  width: 180px;
+  outline : none;
+  position: relative;
+  top: 90px;
+  right: -7px;
+}
+
+.verificationBtn{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    font-size: 16px;
+    height: 40px;
+    width: 160px;
+    position: relative;
+    top:150px;
+    background:#8C52FF;
+    border-radius: 8px;
+    color: white;
+    box-shadow: 2px 2px 3px #000;
+}
+.signUpOptionDiv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 130px;
+    height: 20px;
+    border-top: 2px solid black;
+}
+.navicons{
+    margin-top: 200px;
+}
