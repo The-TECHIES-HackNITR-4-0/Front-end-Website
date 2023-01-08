@@ -3,7 +3,7 @@ A decentralized storage app (DApp) using solidity and IPFS technology.
 
 LINK of project: https://bit.ly/helioshacknitr
 
-VIDEO LINNK: https://drive.google.com/file/d/1CTx3MeUukoXEfDuxaKYtN4NqhLVtG34w/view?usp=share_link
+VIDEO LINK: https://drive.google.com/file/d/1CTx3MeUukoXEfDuxaKYtN4NqhLVtG34w/view?usp=share_link
 
 Figma File: https://www.figma.com/file/7pmoFBLMQqyfVc06dXNgMg/DApp?node-id=0%3A1
 
