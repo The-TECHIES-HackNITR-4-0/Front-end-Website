@@ -1,7 +1,7 @@
 HELIOS:
 A decentralized storage app (DApp) using solidity and IPFS technology.
 
-LINK of project:  https://aryan1982.github.io/Practice/
+LINK of project: https://bit.ly/helioshacknitr
 
 VIDEO LINNK: https://drive.google.com/file/d/1CTx3MeUukoXEfDuxaKYtN4NqhLVtG34w/view?usp=share_link
 
